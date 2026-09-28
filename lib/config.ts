@@ -1,6 +1,6 @@
 /** Public policy URL for Play Console and the in-app link. */
 export const PRIVACY_POLICY_URL =
-  'https://gist.github.com/helloAbhishekJha/cc37a7af863704e06b2b65f157039b4d';
+  'https://helloabhishekJha.github.io/interview-drill-pro/privacy.html';
 
 /** Play subscription product id — must match Play Console + RevenueCat. */
 export const RC_PRODUCT_ID = 'idrill_pro_monthly';
