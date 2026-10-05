@@ -1,6 +1,6 @@
 # Shipaton 2026 — Interview Drill Pro TODO
 
-**Target submit:** Sun Sep 27, 2026 (buffer before Sep 30 @ 11:45pm PDT)  
+**Devpost:** submitted Sep 28, 2026 (checkpoint). Optional polish until Sep 30 @ 11:45pm PDT (judging starts Oct 1).  
 **Primary categories:** Career Coaching Influencer (Heather) · HAMM · #BuildInPublic · optional Keep Them Coming Back (OneSignal)  
 **Reference:** [SHIPATON-2026-OFFICIAL.md](./SHIPATON-2026-OFFICIAL.md) · [SHIPATON-WINNERS-RESEARCH.md](./SHIPATON-WINNERS-RESEARCH.md)
 
@@ -20,10 +20,11 @@
 - [ ] **Name every target award** in description, category answer fields, **and** spoken in video (Week 7)
 - [ ] Judge access: document promo code **`SHIPATON-JUDGE-2026`** in Devpost (unlocks Pro on device; US judges do not pay)
 - [ ] Play review notes: how judges test premium; account must **not** already be subscribed (Tminus replay tip)
-- [x] Privacy policy URL public — https://gist.github.com/helloAbhishekJha/cc37a7af863704e06b2b65f157039b4d (paste the same URL into the Play listing)
+- [x] Privacy policy URL public — https://helloabhishekJha.github.io/interview-drill-pro/privacy.html
+- [x] Devpost submitted (checkpoint Sep 28, 2026)
 - [ ] BillDesk KYC — **after demo submit**. Not required for the free listing, judge code `SHIPATON-JUDGE-2026`, or an India UPI purchase. Blocks a real subscription sale to buyers outside India only.
 - [ ] Confirm app in [Showcase / gallery](https://revenuecat-shipaton-2026.devpost.com/project-gallery) — submit if missing
-- [ ] Final Devpost pass: store link + video link work; no draft left unsubmitted after Sep 30
+- [ ] Optional Devpost **edit** before Sep 30: store link, video, screenshot, privacy URL on form
 
 ---
 

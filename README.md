@@ -2,7 +2,7 @@
 
 **Repository:** https://github.com/helloAbhishekJha/interview-drill-pro
 
-**12-step status (Sun Sep 27, 2026):** [USER-SUBMIT-CHECKLIST-DRILL.md](./USER-SUBMIT-CHECKLIST-DRILL.md)
+**Shipaton 2026:** Devpost **submitted** Sep 28, 2026 (checkpoint). Optional polish until Sep 30 PDT — [USER-SUBMIT-CHECKLIST-DRILL.md](./USER-SUBMIT-CHECKLIST-DRILL.md)
 BillDesk: after the demo submit. It does not block the free listing or the judge code.
 Play Production: blocked. This account needs 12 testers for 14 days before production access. That wait is additional to the RevenueCat deadline (Sep 30, 2026, 11:45pm PDT). Use internal testing.
 Next: internal-test AAB → privacy URL → subscription → RevenueCat package recheck → Devpost.
@@ -12,6 +12,7 @@ Next: internal-test AAB → privacy URL → subscription → RevenueCat package 
 | | |
 |---|---|
 | **Contest** | [Shipaton 2026](https://revenuecat-shipaton-2026.devpost.com/) |
+| **All hackathon deadlines** | [HACKATHONS-TODO.md](../HACKATHONS-TODO.md) (Amazon Oct 23 · Nebius Oct 30 PDT) |
 | **Target submit** | Sun Sep 27, 2026 (official Sep 30 PDT) |
 | **Store** | Google Play · `com.helloabhishekjha.interviewdrill` |
 | **Target awards** | Career Coaching Influencer · HAMM · #BuildInPublic · optional OneSignal |

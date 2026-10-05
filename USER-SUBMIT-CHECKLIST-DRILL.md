@@ -1,6 +1,14 @@
 # Interview Drill Pro — User Submit Checklist
 
-**As of Sun Sep 27, 2026.** This 12-step table is the status to reopen in a new Cursor window. Older notes below are detail only; where they conflict, this table wins.
+**As of Mon Sep 28, 2026.** This 12-step table is the status to reopen in a new Cursor window. Older notes below are detail only; where they conflict, this table wins.
+
+## Shipaton status: **SUBMITTED (checkpoint)**
+
+Devpost entry filed **Sep 28, 2026** — MVP checkpoint for Shipaton 2026. Remaining Play/RC/polish items are **optional** until the official submission window closes (**Wed Sep 30, 2026, 11:45 PM PDT**). Judging starts **Oct 1, 2026**. If you get time before the deadline, use the **Optional polish** list below (same cycle, not a future Shipaton).
+
+**Repo:** https://github.com/helloAbhishekJha/interview-drill-pro  
+**Privacy (use everywhere):** https://helloabhishekJha.github.io/interview-drill-pro/privacy.html  
+**Judge code:** `SHIPATON-JUDGE-2026`
 
 ## Paths
 
@@ -29,10 +37,10 @@
 | 8 | eas login + eas init (projectId in app.json) | Done. Logged in as helloabhishekjha. Project `d93c3330-2abf-4206-85e5-2acc6706901a` |
 | 9 | eas build production AAB | Built. Download the .aab from the Expo build page and upload it in step 10 |
 | 10 | Upload AAB | Internal testing link ready. Production still blocked for 14 days. Link: https://play.google.com/apps/internaltest/4701699961566588128 |
-| 11 | Store listing + privacy URL | Privacy URL is in the app. Listing text is ready to paste. Feature graphic and phone screenshots are left until after recording |
-| 12 | Devpost | Not started. Video is left until after recording |
+| 11 | Store listing + privacy URL | **Partial.** Privacy URL live (GitHub Pages). Feature graphic, screenshots, content rating — optional polish |
+| 12 | Devpost | **Submitted Sep 28, 2026** (checkpoint). Can still edit entry until Sep 30 PDT |
 
-**Privacy URL:** https://gist.github.com/helloAbhishekJha/cc37a7af863704e06b2b65f157039b4d
+**Privacy URL:** https://helloabhishekJha.github.io/interview-drill-pro/privacy.html
 
 **BillDesk:** later, after the demo is submitted. Seller payout KYC only. It does not block the free Play listing, the judge code, or a buyer paying Google with UPI in India. It can block a real Play subscription sold to someone outside India.
 
@@ -40,9 +48,18 @@
 
 **Play 14-day gate (confirmed on the dashboard Sun Sep 27):** This personal Play account cannot open Production until a closed test has at least 12 testers opted in for 14 days. That extra wait ends after the RevenueCat Shipaton deadline (Wed Sep 30, 2026, 11:45 PM PDT). RevenueCat still wants a public production store URL, and Play will not grant that URL in time. Keep going on internal testing, the subscription, the demo, and Devpost. Do not plan a production listing before the deadline.
 
-**Left after recording:** Play feature graphic (1024×500), at least 2 phone screenshots, and the Devpost demo video.
+### Optional polish (only if you have time before Sep 30 PDT)
 
-**Do this order now:** install from the internal link → privacy policy URL → step 2 subscription → step 5 re-save in RevenueCat → step 12 Devpost without the video. Add the feature graphic, screenshots, and video after recording. Production stays blocked for 14 days. BillDesk last.
+- [ ] Devpost: confirm gallery has **1024 icon**, **3:2 thumbnail**, **screenshot**, **video** link; fix privacy URL if an old gist is still on the form
+- [ ] Play: paste **GitHub Pages** privacy URL; content rating + data safety
+- [ ] Play: feature graphic **1024×500**, 2+ phone screenshots
+- [ ] Subscription `idrill_pro_monthly` + RevenueCat re-save Play app + attach product to `pro`
+- [ ] Internal test: judge code on **real device**; optional re-record video on device
+- [ ] New AAB after `lib/config.ts` privacy URL change (in-app link matches Pages)
+- [ ] Participant form email (Ship Kit tier 1) if not done
+- [ ] [Project gallery](https://revenuecat-shipaton-2026.devpost.com/project-gallery) shows your entry
+
+**Deferred:** Production Play (14-day gate), BillDesk, full IAP test, future Shipaton hardening.
 
 ## Click path
 
